@@ -398,3 +398,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+Escort/Web/node_modules/
+
+Escort/Web/appsettings.Development.json
+Escort/Web/appsettings.json
+Escort/Web/appsettings.local.json
+Escort/WebAdmin/appsettings.Development.json
+Escort/WebAdmin/appsettings.json
